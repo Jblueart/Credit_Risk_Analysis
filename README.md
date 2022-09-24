@@ -32,8 +32,15 @@ Combination, Over & Under, Sampling: 65% accuracy
 
 ### Ensemble Classifiers to predict
 
+At the moment I'm struggling with the Ensemble classifiers and getting an attribute error. I'm going to take a break on them to focus on the final group project instead. 
+
+
+
 
 
 ## Results: 
+When looking at the the resampling methods the SMOTEENN algorithm had the highest accuracy but it wasn't by a huge margin. Undersampling wasn't nearly as successful as the others and was nearly the same odds as flipping a coin to determine credit worthiness. I would hope no financial institutions would use that method. 
 
 ## Summary
+
+Machine Learning has it's quirks and place but it is complex and confusing to me. In the end I don't think it's going to be 100 percent perfect, but in actuality sometimes we don't need perfect results. 
